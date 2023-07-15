@@ -1,1 +1,2 @@
-# organ-donate-admin-app
+# ODA-AdminApp
+Organ Donation Admin Application

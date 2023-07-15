@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/recipient_menu"
+        android:icon="@drawable/organ_recipient"
+        android:title="@string/recipient" />
+    <item
+        android:id="@+id/doctor_menu"
+        android:icon="@drawable/organ_doctor"
+        android:title="@string/doctor" />
+    <item
+        android:id="@+id/donor_menu"
+        android:icon="@drawable/organ_donor"
+        android:title="@string/donor" />
+</menu>
